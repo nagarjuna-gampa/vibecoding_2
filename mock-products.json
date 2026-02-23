@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 15 Pro",
+    "description": "Latest Apple iPhone with A17 Pro chip and advanced camera system",
+    "price": 129999,
+    "category": "Mobiles",
+    "imageUrl": "https://via.placeholder.com/300x300?text=iPhone+15+Pro"
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Premium Android smartphone with stunning display and powerful processor",
+    "price": 124999,
+    "category": "Mobiles",
+    "imageUrl": "https://via.placeholder.com/300x300?text=Galaxy+S24+Ultra"
+  },
+  {
+    "id": "3",
+    "name": "iPad Pro 12.9 inch",
+    "description": "Powerful tablet perfect for professionals and creative work",
+    "price": 99999,
+    "category": "Tablets",
+    "imageUrl": "https://via.placeholder.com/300x300?text=iPad+Pro+12.9"
+  },
+  {
+    "id": "4",
+    "name": "MacBook Pro 14 inch",
+    "description": "High-performance laptop with M3 chip for developers and creators",
+    "price": 198999,
+    "category": "Laptops",
+    "imageUrl": "https://via.placeholder.com/300x300?text=MacBook+Pro+14"
+  },
+  {
+    "id": "5",
+    "name": "Dell XPS 13",
+    "description": "Ultrabook with stunning InfinityEdge display and powerful performance",
+    "price": 89999,
+    "category": "Laptops",
+    "imageUrl": "https://via.placeholder.com/300x300?text=Dell+XPS+13"
+  },
+  {
+    "id": "6",
+    "name": "Google Pixel 8 Pro",
+    "description": "AI-powered smartphone with exceptional photography capabilities",
+    "price": 84999,
+    "category": "Mobiles",
+    "imageUrl": "https://via.placeholder.com/300x300?text=Pixel+8+Pro"
+  },
+  {
+    "id": "7",
+    "name": "Samsung Galaxy Tab S9",
+    "description": "Premium Android tablet with 120Hz display and S Pen",
+    "price": 54999,
+    "category": "Tablets",
+    "imageUrl": "https://via.placeholder.com/300x300?text=Galaxy+Tab+S9"
+  },
+  {
+    "id": "8",
+    "name": "Lenovo ThinkPad X1",
+    "description": "Business laptop with exceptional keyboard and battery life",
+    "price": 119999,
+    "category": "Laptops",
+    "imageUrl": "https://via.placeholder.com/300x300?text=ThinkPad+X1"
+  },
+  {
+    "id": "9",
+    "name": "OnePlus 12",
+    "description": "Fast and smooth flagship killer with OxygenOS",
+    "price": 64999,
+    "category": "Mobiles",
+    "imageUrl": "https://via.placeholder.com/300x300?text=OnePlus+12"
+  },
+  {
+    "id": "10",
+    "name": "iPad Air",
+    "description": "Perfect balance of performance and portability for everyday tasks",
+    "price": 59999,
+    "category": "Tablets",
+    "imageUrl": "https://via.placeholder.com/300x300?text=iPad+Air"
+  }
+]
